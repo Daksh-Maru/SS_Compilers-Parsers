@@ -265,7 +265,7 @@ int main() {
 
 
     /* Taking input of cfg */
-    cout << "Enter cfg one by one without space" << endl;
+    cout << "Enter cfg one by one without space like A->c|B" << endl;
 
 
     vector<string> cfg (n);
